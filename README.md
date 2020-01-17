@@ -3,3 +3,5 @@
 This is a simple example of issues that can occur in git
 
 This is not a good example of what to do
+
+Remember to follow git flow for your projects
